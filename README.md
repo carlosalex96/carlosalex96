@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I`m Carlos Alexander Souza 👋
 
-<!--
-**carlosalex96/carlosalex96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I`m a Web Developer, and I`m studying web development at [RocketSeat] (https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current stack
+- Main language: 'JavaScript'
+- Backend: 'Nodejs'
+- Frontend: 'Reactjs', 'HTML5', 'CSS3', 'JavaScript'
+- Layout Design: 'Figma'
+- Version code control: 'Git & Github'
+- Tools: 'VsCode', 'Markdown'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### contacts
+- E-mail: carlosalexander_96@hotmail.com
+- Linkedin: www.linkedin.com/in/
+carlos-alexander-souza-224b42205
