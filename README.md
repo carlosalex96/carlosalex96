@@ -1,16 +1,5 @@
-### Hi there, I'm Carlos Alexander Souza 👋
+### Olá, sou o Carlos Alexander 👋
 
 #### About
-I'm a Web Developer, and I`m studying web development at [RocketSeat](https://www.rocketseat.com.br/).
+Sou desenvolvedor web e atualmente estudo DevOps na [Aada Tech](https://ada.tech/).
 
-#### Current stack
-- Main language: `JavaScript`
-- Backend: `Nodejs`
-- Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
-- Layout Design: `Figma`
-- Version code control: `Git & Github`
-- Tools: `VsCode`, `Markdown`
-
-#### contacts
-- E-mail: carlosalexander_96@hotmail.com
-- Linkedin: www.linkedin.com/in/carlos-alexander-souza-224b42205
